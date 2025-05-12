@@ -1,0 +1,108 @@
+/* Global Body Styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2em;
+  }
+  
+  /* Apply uniform font to all headings h1, h2, h3, h4, h5, h6 */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-weight: 600;
+    color: #2c3e50;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    line-height: 1.3;
+    font-size: 1.4em;
+  }
+  
+  /* Specify size for each heading */
+  h1 {
+    font-size: 2.5em !important;
+  }
+  
+  h2 {
+    font-size: 2.5em !important;
+  }
+  
+  h3 {
+    font-size: 2.5em !important;
+  }
+  
+  h4 {
+    font-size: 2.5em !important;
+  }
+  
+  h5 {
+    font-size: 2.5em !important;
+  }
+  
+  h6 {
+    font-size: 2.5em !important;
+  }
+  
+  /* Section Divider (horizontal rule) */
+  hr {
+    border: 0;
+    height: 1px;
+    background-color: #bbb;
+    margin: 2em 0;
+  }
+  
+  /* Paragraph Styling */
+  p {
+    margin-bottom: 1em;
+    font-size: 1.1em;
+  }
+  
+  /* Link Styling */
+  a {
+    color: #3498db;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* List Styling */
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  li {
+    font-size: 1.1em;
+    margin-bottom: 0.5em;
+  }
+  
+  li::before {
+    content: "• ";
+    color: #3498db;
+    font-weight: bold;
+    margin-right: 8px;
+  }
+  
+  /* Footer styling if necessary */
+  footer {
+    font-size: 0.9em;
+    color: #7f8c8d;
+    text-align: center;
+    margin-top: 2em;
+  }
+  
+  footer a {
+    color: #3498db;
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
