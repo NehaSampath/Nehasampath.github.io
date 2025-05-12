@@ -1,0 +1,72 @@
+---
+title: "Neha Sampath – MBA Portfolio"
+format: html
+theme: flatly
+css: s.css
+---
+
+# Neha Sampath
+MBA Candidate | Aspiring CFO | Accounting & Auditing Enthusiast  
+📧 reachneha14@gmail.com | 📞 +1-672-965-9697  
+🔗 [LinkedIn](https://www.linkedin.com/in/neha-sampath-295413207/)
+
+---
+
+## Professional Summary
+
+I have inherited management skills through the various management fests and workshops that I have attended. I also cultivated interest in finance and accounting in due course of my graduation. Accounting & Financial management gave me learning of trade, investment and also diversified areas of a business which requires good management to be profitable. I have developed expertise in preparing balance sheets with Microsoft Excel. The projects that I have worked on in academics and my earlier internships have helped me develop excellent analytical and problem-solving skills. Apart from that, I am very attentive and organized, with experience working effectively in team environments. My background has been filled with teamwork experiences with diverse groups that developed my capability to communicate and manage time effectively.
+
+## Education
+
+*Master of Business Administration (MBA)*  
+University Canada West, Vancouver  
+Expected Graduation: 2025  
+- Focus: Major focus on Finance
+
+*Bachelor of Business Administration (BBA)*  
+Jain( Deemed to be University), India  
+Graduated: June 2023  
+- Major: Finance
+
+---
+
+## Professional Experience
+
+*Finance Intern*  
+Hellmann Worldwide Logistics – Bangalore, India (Oct 2023 – Jan 2024) (Sept 2022 – Jan 2023)  
+- Supported forecasting and budgeting across India 
+- Assisted ERP transition to Microsoft Dynamics 365  
+
+*Finance Assistant (Internship)*  
+Outlook India – Bangalore, India (Jun–Aug 2021)  
+- Developed Excel dashboards for budget tracking 
+- Quick reporting turnaround and verified project costs
+
+---
+
+## Skills & Certifications
+
+- Microsoft Applications, MS Dynamics 365  
+- Financial Planning & Analysis (FP&A)  
+- Leadership and Communication  
+- Account Management 
+- Problem Solving 
+- *Certifications*: Financial Accounting (Harvard Business School), AI and automation in MS Excel (Skill Nation)
+
+---
+
+## Projects & Achievements
+
+
+*Hellmann Worldwide Logistics's ERP Finance Transformation*
+Initiated a mission-critical workstream for India's migration onto Microsoft Dynamics 365 Finance & Operations. Simplified GL mappings and established master data standardization, improving financial reporting accuracy by 15%.
+
+
+Process Optimization Project - Outlook India 
+Built, through a summer internship, a system for monitoring editorial budgets that reduced processing time by 25% and enhanced accountability among projects.
+
+## Personal Interests
+
+Travelling • Photography • Trekking
+
+---
